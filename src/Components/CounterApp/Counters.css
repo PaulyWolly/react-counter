@@ -1,0 +1,61 @@
+.counters-container {
+  text-align: left;
+  padding: 20px;
+
+}
+
+.counters {
+  margin-top: 20px;
+}
+
+.btn-warning {
+  background-color: rgb(201, 199, 199);
+}
+
+.counter1-app, .counter2-app {
+  padding: 5px
+}
+
+button.btn-small.plus{
+  font-size: 18px;
+  /* font-weight: bold;
+  padding-top: 0;
+  padding-bottom: 15px;
+  height: 35px;
+  margin-bottom: 10px;
+  text-align: center; */
+
+}
+button.btn-small.minus {
+  font-size: 5px;
+  /* font-weight: normal;*/
+  height: 34px;
+  position: relative;
+  width: 38px;
+  padding-bottom: 4px;
+  bottom:6px;
+}
+
+img.minusIcon {
+  margin-top: 3px;
+}
+
+svg.iconify.iconify--bi.plusIcon {
+  bottom: 3px;
+  position: relative;
+  left: 2px;
+  font-weight: bolder;
+  /* margin-bottom: 20px; */
+}
+
+div.reset-btn {
+position: relative;
+left: 15px;
+padding-bottom: 10px;
+padding-top: 10px;
+}
+
+button.reset-btn.btn-sm.btn-primary {
+  box-shadow: 2px 2px 1px .5px rgba(35, 35, 36, 0.3);
+
+}
