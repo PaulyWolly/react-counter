@@ -1,10 +1,8 @@
 import React, { Component } from 'react';
-//import logo from './logo.svg';
 import './App.css';
 import Navbar from './Components/CounterApp/Navbar/Navbar';
 import 'bootstrap/dist/css/bootstrap.css'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-//import CounterApp from './Components/CounterApp/CounterApp'
 import CountersClass from './Components/CounterApp/CountersClass'
 
 class App extends Component {
